@@ -41,8 +41,8 @@ async def start(event):
         link_preview=False,
         buttons=[
             [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "http://t.me/LtsMentionBot?startgroup=true")],
-            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/friends_chat_groupz"), Button.url("❤️‍🔥 ᴍᴀᴀʟɪᴋ 💫", "https://t.me/Alllllllllllllllllllllll")],
-            [Button.url("❤️‍🔥 2ɴᴅ ɢʀᴏᴜᴘ 💫", "https://t.me/F_I_R_group"), Button.url("❤️‍🔥 ᴍᴀᴀʟᴋɪ ᴋɪ 2ɴᴅ ɪ'ᴅ ❤️‍🔥", "https://t.me/Ak_support1")]
+            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/Ak_support1"), Button.url("❤️‍🔥 ᴍᴀᴀʟɪᴋ 💫", "https://t.me/Alllllllllllllllllllllll")],
+            [Button.url("❤️‍🔥 2ɴᴅ ɢʀᴏᴜᴘ 💫", "https://t.me/Ak_support1"), Button.url("❤️‍🔥 ᴍᴀᴀʟᴋɪ ᴋɪ 2ɴᴅ ɪ'ᴅ ❤️‍🔥", "https://t.me/Ak_support1")]
         ]
     )
 
