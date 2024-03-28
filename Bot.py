@@ -40,7 +40,7 @@ async def start(event):
         caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✯ ɪ ᴀᴍ ᴊ.ᴀ.ʀ.ᴠ.ɪ.s ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✯ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣✯ ᴍᴀᴀʟɪᴋ    : [ʜᴀᴍᴀʀᴇ ᴍᴀʟɪᴋ](https://t.me/Alllllllllllllllllllllll)\n┣✯ ɢʀᴏᴜᴘ › : [ᴏᴜʀ ɢʀᴏᴜᴘ](https://t.me/Ak_support1)┓\n┣✯ 2ɴᴅ ɢʀᴏᴜᴘ › : [ᴏᴜʀ 2ɴᴅ ɢʀᴏᴜᴘ](https://t.me/Ak_support1)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴍᴀᴀʟɪᴋ](https://t.me/Alllllllllllllllllllllll) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
-            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "http://t.me/LtsMentionBot?startgroup=true")],
+            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "http://t.me/Hindu_Helper_Bot?startgroup=true")],
             [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/Ak_support1"), Button.url("❤️‍🔥 ᴍᴀᴀʟɪᴋ 💫", "https://t.me/Alllllllllllllllllllllll")],
             [Button.url("❤️‍🔥 2ɴᴅ ɢʀᴏᴜᴘ 💫", "https://t.me/Ak_support1"), Button.url("❤️‍🔥 ᴍᴀᴀʟᴋɪ ᴋɪ 2ɴᴅ ɪ'ᴅ ❤️‍🔥", "https://t.me/Ak_support1")]
         ]
