@@ -1,7 +1,7 @@
 # A Powerful Music And Management Bot
 # Property Of Branded Indian Largest Support Group
-# Rocks © @BRANDRD_BOT © BRANDRD
-# Owner BRANDED + BRANDRD_BOT + BRANDED_WORLD 
+# Rocks © @Alllllllllllllllllllllll © Ak king👑
+# Owner https://t.me/Ak_support1 
 
 
 import os, logging, asyncio
@@ -37,12 +37,12 @@ async def start(event):
     await event.client.send_file(
         event.chat_id,
         file="https://telegra.ph/file/56d1760224589ee370186.jpg",
-        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✯ ɪ ᴀᴍ ᴊ.ᴀ.ʀ.ᴠ.ɪ.s ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✯ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣✯ ᴍᴀᴀʟɪᴋ    : [ʜᴀᴍᴀʀᴇ ᴍᴀʟɪᴋ](https://t.me/Rudra0_9_1)\n┣✯ ɢʀᴏᴜᴘ › : [ᴏᴜʀ ɢʀᴏᴜᴘ](https://t.me/friends_chat_groupz)┓\n┣✯ 2ɴᴅ ɢʀᴏᴜᴘ › : [ᴏᴜʀ 2ɴᴅ ɢʀᴏᴜᴘ](https://t.me/F_I_R_group)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴍᴀᴀʟɪᴋ](https://t.me/Rudra0_9_1) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✯ ɪ ᴀᴍ ᴊ.ᴀ.ʀ.ᴠ.ɪ.s ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✯ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣✯ ᴍᴀᴀʟɪᴋ    : [ʜᴀᴍᴀʀᴇ ᴍᴀʟɪᴋ](https://t.me/Alllllllllllllllllllllll)\n┣✯ ɢʀᴏᴜᴘ › : [ᴏᴜʀ ɢʀᴏᴜᴘ](https://t.me/Ak_support1)┓\n┣✯ 2ɴᴅ ɢʀᴏᴜᴘ › : [ᴏᴜʀ 2ɴᴅ ɢʀᴏᴜᴘ](https://t.me/Ak_support1)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴍᴀᴀʟɪᴋ](https://t.me/Alllllllllllllllllllllll) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
             [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "http://t.me/LtsMentionBot?startgroup=true")],
-            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/friends_chat_groupz"), Button.url("❤️‍🔥 ᴍᴀᴀʟɪᴋ 💫", "https://t.me/Rudra0_9_1")],
-            [Button.url("❤️‍🔥 2ɴᴅ ɢʀᴏᴜᴘ 💫", "https://t.me/F_I_R_group"), Button.url("❤️‍🔥 ᴍᴀᴀʟᴋɪ ᴋɪ 2ɴᴅ ɪ'ᴅ ❤️‍🔥", "https://t.me/LotousIpsitaMusic")]
+            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/friends_chat_groupz"), Button.url("❤️‍🔥 ᴍᴀᴀʟɪᴋ 💫", "https://t.me/Alllllllllllllllllllllll")],
+            [Button.url("❤️‍🔥 2ɴᴅ ɢʀᴏᴜᴘ 💫", "https://t.me/F_I_R_group"), Button.url("❤️‍🔥 ᴍᴀᴀʟᴋɪ ᴋɪ 2ɴᴅ ɪ'ᴅ ❤️‍🔥", "https://t.me/Ak_support1")]
         ]
     )
 
@@ -58,8 +58,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ᴄʜᴀᴛ ɢʀᴏᴜᴘ 💫", "https://t.me/friends_chat_groupz"),
-                Button.url("❤️‍🔥 2ɴᴅ ᴄʜᴀᴛ ɢʀᴏᴜᴘ 💫", "https://t.me/F_I_R_group"),
+                Button.url("❤️‍🔥 ᴄʜᴀᴛ ɢʀᴏᴜᴘ 💫", "https://t.me/Ak_support1"),
+                Button.url("❤️‍🔥 2ɴᴅ ᴄʜᴀᴛ ɢʀᴏᴜᴘ 💫", "https://t.me/Ak_support1"),
             ]
         ),
     )
@@ -70,14 +70,14 @@ async def help(event):
     chat_id = event.chat_id
     if not event.is_private:
         return await event.respond("ᴅᴇᴀʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ᴘᴍ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴғ 🥺")
-    helptext = "✯ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴊ.ᴀ.ʀ.ᴠ.ɪ.s ᴍᴇɴᴛɪᴏɴ\n\n✯ ᴍʏ ᴏᴡɴᴇʀ ɪs [ʙʀᴀɴᴅᴇᴅ ʙᴏᴛ](https://t.me/BRANDRD_BOT)\n✯ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʙʀᴀɴᴅᴇᴅ\n✯ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://youtube.com/TrickyBranded)\n✯ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
+    helptext = "✯ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴊ.ᴀ.ʀ.ᴠ.ɪ.s ᴍᴇɴᴛɪᴏɴ\n\n✯ ᴍʏ ᴏᴡɴᴇʀ ɪs [ʙʀᴀɴᴅᴇᴅ ʙᴏᴛ](https://t.me/Ak_support1)\n✯ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʙʀᴀɴᴅᴇᴅ\n✯ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://t.me/Ak_support1)\n✯ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
     await event.reply(
         helptext,
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/friends_chat_groupz"),
-                Button.url("❤️‍🔥 ᴍᴀᴀʟɪᴋ 💫", "https://t.me/Rudra0_9_1"),
+                Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/Ak_support1"),
+                Button.url("❤️‍🔥 ᴍᴀᴀʟɪᴋ 💫", "https://t.me/Alllllllllllllllllllllll"),
             ]
         ),
     )
@@ -222,5 +222,5 @@ client.run_until_disconnected()
 
 # A Powerful Music And Management Bot
 # Property Of Branded Indian Largest Support Group
-# Rocks © @BRANDRD_BOT © BRANDRD
-# Owner BRANDRD + BRANDRD_BOT + BRANDED_WORLD + BRANDRD SUPPORT CHAT 
+# Rocks © @Alllllllllllllllllllllll © Ak king
+# Owner https://t.me/Ak_support1 
